@@ -1,0 +1,1 @@
+# kotlin-react-master-detail
