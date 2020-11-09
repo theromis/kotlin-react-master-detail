@@ -29,6 +29,7 @@ dependencies {
 }
 kotlin {
     js {
+        useCommonJs()
         browser {
             binaries.executable()
             webpackTask {
