@@ -22,7 +22,7 @@ dependencies {
     implementation("org.jetbrains:kotlin-styled:1.0.0-pre.110-kotlin-1.4.10")
     implementation("org.jetbrains:kotlin-react-router-dom:5.1.2-pre.123-kotlin-1.4.10")
 
-    implementation(npm("react-media", "1.8.0"))
+    implementation(npm("react-media", "1.10.0"))
 //    implementation(files("libs/kotlin-react-media-ir-1.0-SNAPSHOT.klib"))
 //    implementation(project(":kotlin-react-media-jslegacy-1.0-SNAPSHOT-sources"))
 //    implementation(fileTree(mapOf("dir" to "libs", "include" to listOf("*.jar"))))
